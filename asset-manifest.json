@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-multi-step-form/static/css/main.fda455ad.css",
+    "main.js": "/react-multi-step-form/static/js/main.b37af60e.js",
+    "static/media/spinner.gif": "/react-multi-step-form/static/media/spinner.9a68694852c0b065fb0e.gif",
+    "index.html": "/react-multi-step-form/index.html",
+    "main.fda455ad.css.map": "/react-multi-step-form/static/css/main.fda455ad.css.map",
+    "main.b37af60e.js.map": "/react-multi-step-form/static/js/main.b37af60e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda455ad.css",
+    "static/js/main.b37af60e.js"
+  ]
+}
